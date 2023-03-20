@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //ver 0.1
         //ver 0.2
+        //ver 0.3
     }
 }
