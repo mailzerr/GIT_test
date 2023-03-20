@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         //ver 0.2
         //ver 0.3
         // ver 0.4
-        // dieses Kommentar nur im Branch PMS
+        // dieses Kommentar nur im Branch PMS anzeigen
     }
 }
